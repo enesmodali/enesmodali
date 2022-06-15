@@ -1,8 +1,9 @@
 ### Hi Welcome to my Github Profile 👋
 
 
-**enesmodali/enesmodali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-My name is Enes Modalı and i am a Software Developer..
+
+
+**My name is Enes Modalı and i am a Software Developer
 
 I have developed professional projects with:
 
