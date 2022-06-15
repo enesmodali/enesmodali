@@ -3,12 +3,12 @@
 
 
 
-**My name is Enes Modalı and i am a Software Developer
+My name is Enes Modalı and i am a Software Developer.
 
 I have developed professional projects with:
 
 - 🔭 C#
-- 🌱 Java
+- 🌱 Java / Spring Boot
 - 👯 .Net / .Net Core
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=enesmodali&show_icons=true&theme=gradient) 
